@@ -29,19 +29,23 @@ COBIT zorgt voor begeleiding bij het organiseren van IT activeiten binnen de org
 
 COBIT maakt gebruik van 3 key aspecten.
 1. Process Model
-<br/>
+
 helpt ondernemingen de aard te begrijpen van alle activiteiten die verband houden met IT.
 En organiseer ze zodanig dat ze betrouwbaar kunnen worden uitgevoerd en begrepen door alle mensen die ermee te maken hebben.
 bijv. het beheren van een verandering/change, het definiëren van een strategie of iets operationeels zoals het runnen van een servicedesk.
 Gebeurt op zo'n manier dat duidelijk is wat dat proces moet doen, hoe het is georganiseerd en wie eraan moet deelnemen.
-2. Best Practice
 <br/>
+
+2. Best Practice
+
 Geef een leidraad over wat te doen in deze processen.
 In overeenstemming met erkende goede praktijken. Richt zich op wat belangrijk is om te doen en wat er moet gebeuren.
 En zorgt ervoor dat die processen goed werken.
-3. Management Tools
 <br/>
-   Meet de kwaliteit van deze processen met technieken voor het ontwikkelen van capaciteiten
+
+3. Management Tools
+
+Meet de kwaliteit van deze processen met technieken voor het ontwikkelen van capaciteiten
 Zodat het management kan zien of dat proces op dat niveau is dat het vereist.
 Tools die doelen stellen rond wat IT moet doen, zorgen voor goede resultaten en succesvolle resultaten.
 En monitor deze met hoogwaardige, eenvoudig te beheren tools.
