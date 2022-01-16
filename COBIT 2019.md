@@ -69,10 +69,10 @@ COBIT 2019 helpt organisaties om tastbare IT-doelen vast te stellen binnen grote
 
 <br/>
 Cobit maturity model - Dit kan worden gebruikt om het prestatieniveau te identificeren dat IT-elementen moeten bereiken om de doelstellingen te halen.
+<br>
 
 <br/>
 Maturity leveles
-
 
 * Level 0 - Niet-bestaand:
 Het process bestaat nog niet.
@@ -112,8 +112,9 @@ reference: http://cewebs.cs.univie.ac.at/topics/MaturityModels/index.php?m=D&t=i
 
 <br/>
 1 van de grootste nadelen van COBIT 2019 is dat het veel geld kost om het te implementeren. Veel bedrijven en organisaties vermijden de implementatie van COBIT in hun activiteiten vanwege de grote hoeveelheid kosten die bij dit framework komen kijken. Dit is vooral omdat het veel kennis en vaardigheden nodig heeft om het te implementeren als een hulpmiddel ter ondersteuning van het beheer van IT of bij het beoordelen van de prestaties van IT binnen een bedrijf.
+<br>
 
-</br>
+<br/>
 Het Maturity model geeft een oppervlakkige analyse van de gegeven situatie. Er is dus een zeer ervaren analist nodig om een ​​geloofwaardige beoordeling van de maturity van een informatietechnologieorganisatie uit te voeren met behulp van control objectives for information and relatedtechnology (CobiT) Bovendien is er geen bewijs of zekerheid dat de ervaren analisten de vereiste oplossing zouden krijgen met betrekking tot de maturity van de informatietechnologie van een organisatie.
 <br>
 
